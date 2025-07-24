@@ -37,3 +37,14 @@ Atualmente, estou aprofundando meus conhecimentos em Machine Learning e Engenhar
 * Desenvolvimento de modelos de Machine Learning mais complexos.
 * Engenharia de Dados (Pipelines, Data Warehousing)
 
+### 👨‍💻 Atuação profissional:
+
+* Data Analyst - WAP (03/2024-Atual)
+* Business Intelligence Analytics - Freso (05/2022-03/2024)
+* Business Analyst Trainee  - Linear Software Matemáticos / BRF S.A. (01/2021-05/2022)
+
+### 🎓 Formação Acadêmica:
+
+* MBA em Data Science e Analytics - USP (2025-Atual)
+* Engenharia Mecânica - PUCPR (2015-2019) 
+
